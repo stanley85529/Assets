@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 8af7da458f74c3241b0d08e7a0ade0cf
+timeCreated: 1480333043
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Index
+    100002: Index 1
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint2
+    100012: joint20
+    100014: joint21
+    100016: joint22
+    100018: joint23
+    100020: joint24
+    100022: joint25
+    100024: joint26
+    100026: joint27
+    100028: joint28
+    100030: joint29
+    100032: joint3
+    100034: joint30
+    100036: joint31
+    100038: joint32
+    100040: joint33
+    100042: joint34
+    100044: joint4
+    100046: joint5
+    100048: joint58
+    100050: joint59
+    100052: joint60
+    100054: joint66
+    100056: joint67
+    100058: joint68
+    100060: joint70
+    100062: joint71
+    100064: joint72
+    100066: joint74
+    100068: joint75
+    100070: joint76
+    100072: joint78
+    100074: joint79
+    100076: joint80
+    100078: joint82
+    100080: joint83
+    100082: joint84
+    100084: joint85
+    100086: joint86
+    100088: joint87
+    100090: joint88
+    100092: joint89
+    100094: joint9
+    100096: joint90
+    100098: joint91
+    100100: joint92
+    100102: L_arm
+    100104: L_elbow
+    100106: L_Wrist
+    100108: Little
+    100110: Little 1
+    100112: Middle
+    100114: Middle 1
+    100116: pCube1
+    100118: pCube2
+    100120: Phakars_Ama:group1
+    100122: Phakars_Ama:pCube1
+    100124: Phakars_Ama:pCube2
+    100126: Phakars_Ama:pCube9
+    100128: Phakars_Ama:pCylinder1
+    100130: Phakars_Ama:polySurface7
+    100132: Phakars_Ama:polySurface8
+    100134: Phakars_Ama:polySurface9
+    100136: Phakars_Ama:pPipe1
+    100138: Phakars_Ama:pPipe2
+    100140: Phakars_Ama:pPipe3
+    100142: Phakars_Ama:pPipe6
+    100144: Phakars_Ama:pPipe7
+    100146: Phakars_Ama:pPipe8
+    100148: Pharkas
+    100150: //RootNode
+    100152: polySurface5
+    100154: polySurface7
+    100156: polySurface8
+    100158: polySurface9
+    100160: pSphere1
+    100162: pSphere2
+    100164: R_arm
+    100166: R_elbow
+    100168: R_Wrist
+    100170: Ring
+    100172: Ring 1
+    100174: Root
+    100176: Thumbs
+    100178: Thumbs 1
+    400000: Index
+    400002: Index 1
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint2
+    400012: joint20
+    400014: joint21
+    400016: joint22
+    400018: joint23
+    400020: joint24
+    400022: joint25
+    400024: joint26
+    400026: joint27
+    400028: joint28
+    400030: joint29
+    400032: joint3
+    400034: joint30
+    400036: joint31
+    400038: joint32
+    400040: joint33
+    400042: joint34
+    400044: joint4
+    400046: joint5
+    400048: joint58
+    400050: joint59
+    400052: joint60
+    400054: joint66
+    400056: joint67
+    400058: joint68
+    400060: joint70
+    400062: joint71
+    400064: joint72
+    400066: joint74
+    400068: joint75
+    400070: joint76
+    400072: joint78
+    400074: joint79
+    400076: joint80
+    400078: joint82
+    400080: joint83
+    400082: joint84
+    400084: joint85
+    400086: joint86
+    400088: joint87
+    400090: joint88
+    400092: joint89
+    400094: joint9
+    400096: joint90
+    400098: joint91
+    400100: joint92
+    400102: L_arm
+    400104: L_elbow
+    400106: L_Wrist
+    400108: Little
+    400110: Little 1
+    400112: Middle
+    400114: Middle 1
+    400116: pCube1
+    400118: pCube2
+    400120: Phakars_Ama:group1
+    400122: Phakars_Ama:pCube1
+    400124: Phakars_Ama:pCube2
+    400126: Phakars_Ama:pCube9
+    400128: Phakars_Ama:pCylinder1
+    400130: Phakars_Ama:polySurface7
+    400132: Phakars_Ama:polySurface8
+    400134: Phakars_Ama:polySurface9
+    400136: Phakars_Ama:pPipe1
+    400138: Phakars_Ama:pPipe2
+    400140: Phakars_Ama:pPipe3
+    400142: Phakars_Ama:pPipe6
+    400144: Phakars_Ama:pPipe7
+    400146: Phakars_Ama:pPipe8
+    400148: Pharkas
+    400150: //RootNode
+    400152: polySurface5
+    400154: polySurface7
+    400156: polySurface8
+    400158: polySurface9
+    400160: pSphere1
+    400162: pSphere2
+    400164: R_arm
+    400166: R_elbow
+    400168: R_Wrist
+    400170: Ring
+    400172: Ring 1
+    400174: Root
+    400176: Thumbs
+    400178: Thumbs 1
+    4300000: Phakars_Ama:polySurface9
+    4300002: Phakars_Ama:polySurface8
+    4300004: Phakars_Ama:polySurface7
+    4300006: Phakars_Ama:pCube9
+    4300008: Phakars_Ama:pCube2
+    4300010: Phakars_Ama:pPipe8
+    4300012: Phakars_Ama:pPipe7
+    4300014: Phakars_Ama:pPipe6
+    4300016: Phakars_Ama:pCube1
+    4300018: Phakars_Ama:pPipe3
+    4300020: Phakars_Ama:pPipe2
+    4300022: Phakars_Ama:pPipe1
+    4300024: Phakars_Ama:pCylinder1
+    4300026: pSphere2
+    4300028: pSphere1
+    4300030: pCube2
+    4300032: pCube1
+    4300034: polySurface9
+    4300036: polySurface8
+    4300038: polySurface7
+    4300040: polySurface5
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube1
+    13700002: pCube2
+    13700004: Phakars_Ama:pCube1
+    13700006: Phakars_Ama:pCube2
+    13700008: Phakars_Ama:pCube9
+    13700010: Phakars_Ama:pCylinder1
+    13700012: Phakars_Ama:polySurface7
+    13700014: Phakars_Ama:polySurface8
+    13700016: Phakars_Ama:polySurface9
+    13700018: Phakars_Ama:pPipe1
+    13700020: Phakars_Ama:pPipe2
+    13700022: Phakars_Ama:pPipe3
+    13700024: Phakars_Ama:pPipe6
+    13700026: Phakars_Ama:pPipe7
+    13700028: Phakars_Ama:pPipe8
+    13700030: polySurface5
+    13700032: polySurface7
+    13700034: polySurface8
+    13700036: polySurface9
+    13700038: pSphere1
+    13700040: pSphere2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
